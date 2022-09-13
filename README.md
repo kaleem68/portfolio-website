@@ -1,5 +1,5 @@
 # App
-Portfolio website.
+Portfolio responsive website.
 
 # Tech Stack
 - React, Chakra UI
